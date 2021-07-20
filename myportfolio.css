@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+  
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav ul{
+    text-align: center;
+    margin: auto;
+    left: 30px;
+    right: 40px;
+    
+}
+nav  li a:hover{
+ color: rgb(6, 65, 65);
+}
+nav ul li{
+    list-style: none;
+    float: left;
+    width: 300px;
+    position: relative;
+    left: 180px;
+}
+nav{
+    font-size: 25px;
+    position: sticky;
+    top: 0px;
+    
+        
+}
+nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+nav ul ul{
+    display: none;
+}
+nav ul li:hover ul{
+    display: block;
+    color: burlywood;
+    line-height: 40px;
+   
+}
+nav ul li:hover ul li{
+    background-color: rgb(0, 0, 0);
+    color: rgb(95, 87, 87);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-left: -70px;
+}
+nav ul li:hover ul li a{
+    color: rgb(253, 253, 255);
+  
+}
+.header{
+   
+    margin-bottom: 40px;
+        background-color: rgb(247, 243, 235);
+    
+    line-height: 60px;
+    font-family: forte;
+    color: rgb(54, 3, 43);
+}
+
+
+.hire{
+    color: rgb(208, 241, 21);
+    position: absolute;
+    left: 370px;
+    fon
+}
+body{
+    background-image: url("D:\wallpapers/zany-jadraque-YLdC7qO9M3g-unsplash.jpg");
+    background-size: cover;
+}
+wrapper{
+    width: 1500px;
+    margin: auto;
+}
+video{
+    margin-left: 140px;
+}
+
